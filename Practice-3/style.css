@@ -6,7 +6,7 @@
 html,body{
     height: 100%;
     width: 100%;
-    background-color: #a3a1a1b2;
+    background-color: #e7dedeb2;
 }
 
 #center{
@@ -21,7 +21,7 @@ html,body{
     font-family: gilroy;
     font-size: 100px;
     text-align: center;
-    color: rgb(175, 119, 119);
+    color: rgba(7, 7, 7, 0.877);
 }
 .imagediv{
     width: 100px;
